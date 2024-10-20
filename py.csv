@@ -1,0 +1,10 @@
+time,monday,tuesday,wednesday,thursday,friday,saturday,sunday
+
+8:00-2:00,college,college,college,college,college,,
+2:00-3:00,college,college,break,break,college,,
+3:00-4:00 or 3:00-5:00,college,college,study ,study,study,,
+5:00-7:30,gym,gym,gym,gym,gym,gym,gym
+7:30 - 8-30,break,break,break,break,break,break,break
+8:30 - 11:00 ,study ,study ,study ,study ,study ,study ,study
+11:00 - 11:30 ,break,break,break,break,break,break,break
+11:30 - whatever ,research,research,research,research,research,research,research
